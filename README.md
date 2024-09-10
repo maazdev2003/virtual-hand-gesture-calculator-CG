@@ -49,7 +49,7 @@ This project demonstrates a virtual calculator controlled by hand gestures, util
 
 ## Screenshots
 
-![Calculator Interface](path/to/screenshot.png)
+![calculator](https://github.com/user-attachments/assets/5ef02f60-f3a3-4c63-b116-addf94f442b8)
 
 ## Future Improvements
 
